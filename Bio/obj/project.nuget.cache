@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJrEPbByiooYDHmFrOAgygYqCmQtYnXP71OYZ4AyZXu1dkISbtg2Keb9SR0yuul1rtGmBe+TEXNWq6dW1sSzkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Bio\\Bio\\Biometric.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}
